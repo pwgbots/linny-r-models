@@ -1,5 +1,5 @@
 # linny-r-models
-Demonstration models that can be run with the Linny-R software
+###Demonstration models that can be run with the Linny-R software
 
 This repository contains models that can be run with
 [Linny-R](https://github.com/pwgbots/linny-r), an diagram-based executable
