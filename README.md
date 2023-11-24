@@ -2,7 +2,7 @@
 Demonstration models that can be run with the Linny-R software
 
 This repository contains models that can be run with
-(Linny-R)[https://github.com/pwgbots/linny-r], an diagram-based executable
+[Linny-R](https://github.com/pwgbots/linny-r), an diagram-based executable
 specification language for Mixed Integer Linear Programming problems (MILP).
 
 All models in this repository are published under the Creative Commons
